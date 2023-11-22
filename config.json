@@ -1,14 +1,14 @@
 {
-  "sleeping": true,
-  "incenseMode": false,
-  "reactAfterCatch": false,
+  "sleeping": false,
+  "incenseMode": true,
+  "reactAfterCatch": true,
   "logCatches": true,
-  "lowIVLog": "10.00",
-  "highIVLog": "85.00",
+  "lowIVLog": "1.00",
+  "highIVLog": "99.00",
   "logWebhook": "WEBHOOK TO LOG CATCHES",
   "ownerID": [ "ID OF MAIN ACCOUNT", "..." ],
-  "prefix": "!",
-  "globalCatch": false,
+  "prefix": "a",
+  "globalCatch": true,
   "blacklistedGuilds": [ "716390832034414685", "..." ],
   "autoSatchel": true
 }
